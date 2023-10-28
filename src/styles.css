@@ -1,0 +1,14 @@
+img {
+    max-width: 100%;
+  }
+  
+  .breed-select {
+    display: none;
+  }
+  
+  .loader {
+    display: none;
+  }
+  .error {
+    display: none;
+  }
